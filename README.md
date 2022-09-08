@@ -1,6 +1,6 @@
 # OCR_APP_Bizcard
 
-1.云脉文档云识别，可以拍照或导入身份证图片进行识别
+1.云脉名片云识别，可以拍照或导入身份证图片进行识别
 
 2.https://github.com/xmyunmai/CR_APP_Bizcard 下载demo
 
